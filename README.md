@@ -9,7 +9,7 @@ Inicio: Llamada Telefónica
 ##Proceso
 - Pedir tiempo
 - Pedir costoMinuto
-- Multiplicar el tiempo por el costoMinuto de la llamada.
+- Multiplicar el tiempo por el costoMinuto de la llamada y almacenarlo en total.
 - Mostrar el total.
 
 *FIN*
